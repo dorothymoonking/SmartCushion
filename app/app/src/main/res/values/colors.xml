@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffdb59</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#ffff</color>
+
+    <drawable name="bg_select7">@drawable/login_btn2</drawable> // 로그인 버튼 눌렀을때 색상 변경
+    <drawable name="bg7">@drawable/login_btn</drawable>
+</resources>
